@@ -1,0 +1,35 @@
+{
+  "CT0001_cadastrarSucesso": {
+    "selectVersion": "Bootstrap V4 Theme",
+    "name": "Teste Sicredi",
+    "lastName": "Teste",
+    "contactFirstName": "seu nome",
+    "phone": "51 9999-9999",
+    "addressLine1": "Av Assis Brasil, 3970",
+    "addressLine2": "Torre D",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "postalcode": "91000-000",
+    "country": "Brasil",
+    "fromEmployeer": "Fixter",
+    "creditLimit": "200",
+    "msgCadastroSucesso": "Your data has been successfully stored into the database. Edit Customer or Go back to list"
+  },
+  "CT0002_deletarCadastro": {
+    "selectVersion": "Bootstrap V4 Theme",
+    "name": "Teste Sicredi2",
+    "lastName": "Teste",
+    "contactFirstName": "seu nome",
+    "phone": "51 9999-9999",
+    "addressLine1": "Av Assis Brasil, 3970",
+    "addressLine2": "Torre D",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "postalcode": "91000-000",
+    "country": "Brasil",
+    "fromEmployeer": "Fixter",
+    "creditLimit": "200",
+    "msgCadastroSucesso": "Your data has been successfully stored into the database. Edit Customer or Go back to list",
+    "msgExclusaoSucesso": "Your data has been successfully deleted from the database."
+  }
+}
